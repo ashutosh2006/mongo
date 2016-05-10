@@ -1,5 +1,5 @@
 <?php
-namespace mongo\db;
+namespace mongo;
 
 class Mongo {
     public static function getInstance(){
