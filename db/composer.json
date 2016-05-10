@@ -1,0 +1,26 @@
+{
+    "name": "mongo/db",
+    "description": "A Mongo db connector",
+    "type": "library",
+    "homepage": "",
+    "license": "MIT",
+    "keywords": ["mongo"],
+    "authors": [
+        {
+            "name": "Ashutosh Tripathi",
+            "email": "ashutosh.sns@gmail.com"
+        },
+    ],
+    "require" : {
+        "ext-libxml" : "*",
+        "php" : ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {"Mongo\\db": "src"}
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
