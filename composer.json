@@ -1,5 +1,5 @@
 {
-    "name": "ashutosh2006/mongo",
+    "name": "mongo",
     "type": "library",
     "description": "A Mongo db connector",
     "keywords": ["mongo"],
