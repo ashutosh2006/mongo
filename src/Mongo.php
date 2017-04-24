@@ -1,7 +1,7 @@
 <?php
-namespace mongo;
+namespace Mongo;
 
-class Mongo {
+class MongoDB {
     public static function getInstance(){
         
     }
